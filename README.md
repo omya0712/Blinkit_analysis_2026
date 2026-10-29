@@ -141,9 +141,9 @@ Using **Pandas and Matplotlib**, we:
 
 ## 🙋‍♀️ About Me
 
-**Snehal Nalawade**  
+**Omm Tharkude**  
 💼 Aspiring Data Analyst | Passionate about BI and storytelling  
-📧 snehalrnalawade2003@gmail.com 
+📧 work.omm1907@gmail.com 
 📍 India  
 
 
